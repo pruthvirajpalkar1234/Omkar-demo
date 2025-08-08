@@ -1,2 +1,3 @@
 # Omkar-demo
-This is my first repository 
+## Author omkar shinde
+This is my first Github repo
